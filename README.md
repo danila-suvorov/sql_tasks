@@ -1,1 +1,1 @@
-# Решение sql задач с сайта https://sql-academy.org/ru/trainer
+# Решение sql задач с сайта https://leetcode.com/studyplan/top-sql-50/
